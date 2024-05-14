@@ -2,11 +2,8 @@
 A small pygame space invaders game.
 
 ## Prerequesites
-The program requires some modules, most are built in from python, some you need to install using PIP, see below.
-
-- Pygame
-- Random
-- Math
+All the needed modules are included in python/pygame
+You will however need to install pygame, you can do this through PIP
 
 ## Licencing
 Licenced under a MIT licence, feel free to develop based on this code, free for all to use.
