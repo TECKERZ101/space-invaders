@@ -203,5 +203,5 @@ def game():
         pygame.display.update()
         clock.tick(60)
 
-# ----------------- Calling the Game Function ---------------------
+# ----------------- Calling the Game Function! ---------------------
 game()
